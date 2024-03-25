@@ -1,0 +1,13 @@
+postgres-data/
+.env
+docs/base
+docs/base/
+
+docs
+clear_database.py
+draw_tree.sh
+structure.txt
+remove_migrations.sh
+features.md
+**/migrations/*
+!**/migrations/__init__.py
